@@ -3,4 +3,7 @@ channels:
   - defaults
 dependencies:
   - python=3.12
+  - ipykernel
+  - polars
+  - pathlib
 prefix: C:\Users\danil\anaconda3\envs\smoke
