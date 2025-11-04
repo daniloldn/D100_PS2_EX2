@@ -6,4 +6,8 @@ dependencies:
   - ipykernel
   - polars
   - pathlib
+  - scipy
+  - scikit-learn
+  - statsmodels
+  - pyarrow
 prefix: C:\Users\danil\anaconda3\envs\smoke
